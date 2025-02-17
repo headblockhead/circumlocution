@@ -1,6 +1,6 @@
 Made by: @Edward Hesketh
 Repository link: https://github.com/headblockhead/circumlocution/
-Total hours so far: 1
+Total hours so far: 2
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -11,6 +11,8 @@ A documentation of the process of designing, modelling, and making my polar prin
 ## Hour 1
 
 <sup>began on UNIX Timestamp 1739815200</sup>
+
+## Design sketch 
 
 I started drawing up a design sketch for what my printer could look like using GIMP, and came up with a design I was happy with.
 (15 mins)
@@ -24,3 +26,18 @@ Then, I started planning out the rough mechanical design for how the printer's m
 
 I took a few measurements from the ender 3, and did a little research, and decided on 2020 aluminium extrusion to use for the frame, and M10 threaded rod for the Z-axis. I have a feeling that these decisions might change later, but for now, that's what I'll use for the CAD models. I'm thinking of using FreeCAD for the printer, but I'm pretty sure I'll regret it 😆! I also researched the time+date of the Rocky Mountain RepRap Festival to ensure I could actually make it there, without missing too much schoolwork or any exams that I'd have to do tons of catch-up for. Hopefully, if I make it, my school will allow me to take a day or two off to attend.
 (25 mins)
+
+## Hour 2
+
+<sup>began on UNIX Timestamp 1739819370</sup>
+
+I started modelling the 2020 extrusion in FreeCAD for use in my design based on this reference diagram from [www.tnutz.com](https://www.tnutz.com/product/exm-2020/).
+
+![The reference image for the 2020 extrusion](https://cdn.hackclubber.dev/slackcdn/7771bdcac71cdee5df4468b976001336.png)
+
+This is the end result:
+
+![FreeCAD Sketch showing the 2020 extrusion's cross-section](https://cdn.hackclubber.dev/slackcdn/1f70b50b7acbe0344b657bcd1724ec4a.png)
+![FreeCAD screenshot showing the extrusion, extruded](https://cdn.hack.pet/slackcdn/8ca8864171033d78c575cc6f35eb8825.png)
+
+(60 mins)
