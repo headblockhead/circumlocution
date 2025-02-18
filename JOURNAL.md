@@ -1,6 +1,6 @@
 Made by: @Edward Hesketh
 Repository link: https://github.com/headblockhead/circumlocution/
-Total hours so far: 3
+Total hours so far: 4
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -61,3 +61,17 @@ I also sourced [a model for a NEMA 17 stepper motor](https://www.thingiverse.com
 Finally, I generated a model for the threaded rod - a TR8x8 lead screw (30cm).
 
 ![Lead screw model](https://cdn.hackclubber.dev/slackcdn/6c7c4cf13d735035023bc473e769a3a6.png)
+
+## Hour 4
+
+<sup>began on UNIX Timestamp 1739889914</sup>
+
+I found [an existing NEMA 17 motor mounting bracket](https://www.123-3d.co.uk/123-3D-Metal-mounting-bracket-for-NEMA17-stepper-motor-90-L-bracket-i2129-t14804.html) made of sheet metal, and modelled it to see if it could fit the 2040 extrusion. I spent 50 minutes creating the model, but it isn't compatible with the 2040 rails, it just looks like it *could* be. Oh well! Looks like I'll have to design a part for this bit. At least I have accurate dimensions though!
+
+![NEMA 17 motor mount](https://cdn.hackclubber.dev/slackcdn/05b30cda79c101e34b259e96be0f15b3.png)
+
+I've had no regrets using FreeCAD so far, the 1.0.0 version improved a **lot** since ~0.2. Fusion 360 would be *way easier*, but it's not exactly in the 'open source spirit' in my opinion, because if Fusion dies, the project dies too. But FreeCAD's code will (hopefully) be available for free, and for forever. 
+
+I'm keeping the right angle bracket model around just in case I am able to use it somewhere else, I'm getting my time's worth out of that model someday!
+
+I also found [some brackets](https://www.123-3d.co.uk/123-3D-Blind-corner-connector-for-aluminium-2020-profile-123-3D-brand-i1590-t14575.html) for attaching the extrusions together, could be worth a look at next hour.
