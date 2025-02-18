@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/15292bdf-9b51-4f22-abb6-e0367866a667)Made by: @Edward Hesketh
+Made by: @Edward Hesketh
 Repository link: https://github.com/headblockhead/circumlocution/
 Total hours so far: 3
 
