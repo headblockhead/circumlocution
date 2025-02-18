@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/cfa2e559-7de3-4a63-99ae-6b1651a10dd2)Made by: @Edward Hesketh
 Repository link: https://github.com/headblockhead/circumlocution/
-Total hours so far: 5
+Total hours so far: 6
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -78,7 +78,7 @@ I also found [some brackets](https://www.123-3d.co.uk/123-3D-Blind-corner-connec
 
 ## Hour 5
 
-<sup> began on UNIX Timestamp 1739893575</sup>
+<sup>began on UNIX Timestamp 1739893575</sup>
 
 I modelled the 5-8mm shaft coupling part:
 
@@ -87,3 +87,15 @@ I modelled the 5-8mm shaft coupling part:
 And created the first 3D-printable part, the mounting bracket for the motor.
 
 ![motor mounting bracket](https://cdn.hack.pet/slackcdn/cd3028f52420394428f062ef7cd5f573.png)
+
+## Hour 6
+
+<sup>began on UNIX Timestamp 1739897976</sup>
+
+I have found the correct sizes of fasteners (nuts/bolts/TSlots) for the rails and motors that I am using, and have added them to the CAD model, in roughly the correct places, to ensure that my parts don't overlap the heads of any of the screws I will need to install.
+
+![motor and extrusions with screws and slots](https://cdn.hack.pet/slackcdn/9ab6941896ad23120a4126bccc9aa6e2.png)
+
+Finally, I renamed all of the parts to have (mostly) sensible names:
+
+![parts list with sensible names](https://cdn.hackclubber.dev/slackcdn/c091daf3599890aa7fd94361db321e48.png)
