@@ -1,12 +1,12 @@
-Made by: @Edward Hesketh
+![image](https://github.com/user-attachments/assets/cfa2e559-7de3-4a63-99ae-6b1651a10dd2)Made by: @Edward Hesketh
 Repository link: https://github.com/headblockhead/circumlocution/
-Total hours so far: 4
+Total hours so far: 5
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
 # Circumlocution Journal
 
-A documentation of the process of designing, modelling, and making my polar printer for [Hack Club's Infill YSWS](https://infill.hackclub.com/)/.
+A documentation of the process of designing, modelling, and making my polar printer for [Hack Club's Infill YSWS](https://infill.hackclub.com/).
 
 ## Hour 1
 
@@ -75,3 +75,15 @@ I've had no regrets using FreeCAD so far, the 1.0.0 version improved a **lot** s
 I'm keeping the right angle bracket model around just in case I am able to use it somewhere else, I'm getting my time's worth out of that model someday!
 
 I also found [some brackets](https://www.123-3d.co.uk/123-3D-Blind-corner-connector-for-aluminium-2020-profile-123-3D-brand-i1590-t14575.html) for attaching the extrusions together, could be worth a look at next hour.
+
+## Hour 5
+
+<sup> began on UNIX Timestamp 1739893575</sup>
+
+I modelled the 5-8mm shaft coupling part:
+
+![coupling part](https://cdn.hackclubber.dev/slackcdn/1c53eb03b7c93efc7df3e740816198a9.png)
+
+And created the first 3D-printable part, the mounting bracket for the motor.
+
+![motor mounting bracket](https://cdn.hack.pet/slackcdn/cd3028f52420394428f062ef7cd5f573.png)
