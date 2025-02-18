@@ -1,6 +1,6 @@
-Made by: @Edward Hesketh
+![image](https://github.com/user-attachments/assets/15292bdf-9b51-4f22-abb6-e0367866a667)Made by: @Edward Hesketh
 Repository link: https://github.com/headblockhead/circumlocution/
-Total hours so far: 2
+Total hours so far: 3
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -41,3 +41,23 @@ This is the end result:
 ![FreeCAD screenshot showing the extrusion, extruded](https://cdn.hack.pet/slackcdn/8ca8864171033d78c575cc6f35eb8825.png)
 
 (60 mins)
+
+## Hour 3
+
+<sup>began on UNIX Timestamp 1739885638</sup>
+
+I started modelling the Z axis. I looked at the design of the Ender 3 for an example of how a Z-axis could be assembled:
+
+![Ender 3 Z-Axis picture](https://cdn.hackclubber.dev/slackcdn/60de35011490539cf4fd5e0239219243.png)
+
+And I moddled some 2040 extrusion.
+
+![2040 extrusion model](https://cdn.hackclubber.dev/slackcdn/94690d0a2c914efde01b9fe4447c6ce6.png)
+
+I also sourced [a model for a NEMA 17 stepper motor](https://www.thingiverse.com/thing:6761583/files), to use as reference for the 3D printed parts.
+
+![NEMA 17 stepper screenshot](https://cdn.hackclubber.dev/slackcdn/40f02e0b98249b96c1ccbab54d68d6bd.png)
+
+Finally, I generated a model for the threaded rod - a TR8x8 lead screw (30cm).
+
+![Lead screw model](https://cdn.hackclubber.dev/slackcdn/6c7c4cf13d735035023bc473e769a3a6.png)
