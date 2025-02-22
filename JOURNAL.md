@@ -1,6 +1,6 @@
-![image](https://github.com/user-attachments/assets/cfa2e559-7de3-4a63-99ae-6b1651a10dd2)Made by: @Edward Hesketh
+Made by: @Edward Hesketh
 Repository link: https://github.com/headblockhead/circumlocution/
-Total hours so far: 6
+Total hours so far: 9
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -99,3 +99,16 @@ I have found the correct sizes of fasteners (nuts/bolts/TSlots) for the rails an
 Finally, I renamed all of the parts to have (mostly) sensible names:
 
 ![parts list with sensible names](https://cdn.hackclubber.dev/slackcdn/c091daf3599890aa7fd94361db321e48.png)
+
+## Hours 7-9
+
+<sup>hour 7 began on approx. UNIX Timestamp 1740168000 and 8-9 on approx. UNIX Timestamp 1740256200</sup>
+
+I have made quite a lot of undocumented progress on-and-off through short sessions in my free time, so in summary the changes are:
+- Added a trapezoidal nut to follow the lead screw
+- Switched to using hex bolts instead of phillips screws
+- Set the position of objects manually, to avoid imprecision from visual only alignment
+- [Found a pulley](https://www.123-3d.co.uk/123-3D-GT2-high-resolution-timing-belt-pulley-20-teeth-6mm-belt-5mm-bore-GT2-20T-W6-B5-i2081-t14815.html) for the X axis belt, [and a similar-enough model](https://grabcad.com/library/gt2-pulley-20-tooth-id-6mm-1)
+- Built a carriage to follow the nut by holding the nut using screws screwing into heat-set inserts
+
+![a screenshot of the whole assembly with changes as described above](https://cloud-d1we5mzy3-hack-club-bot.vercel.app/0image.png)
