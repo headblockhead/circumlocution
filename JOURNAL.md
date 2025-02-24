@@ -1,6 +1,6 @@
 Made by: @Edward Hesketh
 Repository link: https://github.com/headblockhead/circumlocution/
-Total hours so far: 9
+Total hours so far: 10
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -112,3 +112,15 @@ I have made quite a lot of undocumented progress on-and-off through short sessio
 - Built a carriage to follow the nut by holding the nut using screws screwing into heat-set inserts
 
 ![a screenshot of the whole assembly with changes as described above](https://cloud-d1we5mzy3-hack-club-bot.vercel.app/0image.png)
+
+## Hour 10
+
+<sup>began on UNIX Timestamp 1740416875</sup>
+
+I planned out the position for the rollers to follow the Z axis:
+
+![](https://cloud-cyfuz2z3i-hack-club-bot.vercel.app/0image.png)
+
+Added the rollers, and started re-building the carriage.
+
+![](https://cloud-aa22v5w8t-hack-club-bot.vercel.app/0image.png)
