@@ -1,6 +1,6 @@
 Made by: @Edward Hesketh
 Repository link: https://github.com/headblockhead/circumlocution/
-Total hours so far: 10
+Total hours so far: 16
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -124,3 +124,17 @@ I planned out the position for the rollers to follow the Z axis:
 Added the rollers, and started re-building the carriage.
 
 ![](https://cloud-aa22v5w8t-hack-club-bot.vercel.app/0image.png)
+
+# Hours 11-16
+
+<sup>took place across multiple days between timestamps 1740416875 and 1741539544 </sup>
+
+I re-built the entire Z-following carriage into two 3D-printable parts, held together with insertable nuts and screws.
+
+(as seen from front side)
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/bbf534821b55a24cfd03fbf01609c99424e38789_image.png)
+
+(as seen from back side)
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/56549c14186e0d0648153ff6db1491fdf45d664e_image.png)
