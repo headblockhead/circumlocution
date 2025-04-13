@@ -1,6 +1,7 @@
 # BOM
 
 (cables and fasteners not currently included)
+(TODO: pricing)
 
 - [ ] Turntable/lazy susan/bearing
 - [ ] Orbiter v2.0
