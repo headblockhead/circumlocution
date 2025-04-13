@@ -19,9 +19,11 @@ If you also have some random Ender 3 related printer parts around the place, thi
 1. Around 50 hours of hard work
 2. Because I thought it would be funny, and I wanted to join in with [hackclub's infill project](https://github.com/hackclub/infill).
 
-I chose FreeCAD because I hate it when people's projects require paying/borrowing/begging for Autodesk Fusion 360 access just to see or modify them, and I wanted to become more familliar with how FreeCAD works.
+I chose FreeCAD because:
+  1. I hate it when people's projects require people to beg/borrow/steal/leagally-buy Autodesk Fusion 360 access just to see or modify them
+  2. I wanted to become more familliar with how FreeCAD works.
 
-I may revise/re-make this project someday, into something less bad (and therefore more good) when I have time, inspiration, and budget.
+I may revise/re-make this project into something more complete with a followable build guide and a better design (EG. lots of X-space could be saved on the extruder design, a longer alu. extrusion could add a second Z axis, etc.) someday.
 
 ## CAD Gallery
 
